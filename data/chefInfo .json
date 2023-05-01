@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Jhon",
+    "image": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/1280-x-1000_6e1a4ddb-9b58-45a7-aa1e-c0897e5e27f5_1024x1024.jpg?v=1617571946",
+    "experience": 4,
+    "recipes": 12,
+    "likes": 52
+  }
+]
