@@ -7,7 +7,7 @@ const chefInfo = require("./data/chefInfo .json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Dragon is running");
+  res.send("Chinese FoodHunt");
 });
 
 app.get("/chefInfo", (req, res) => {
